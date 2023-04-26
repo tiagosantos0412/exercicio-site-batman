@@ -93,6 +93,7 @@ h1 {
 /*Inicio da configuração do footer ou dorapé*/
 
 footer {
+    text-align: center;
     margin-top: -3.6px;
     background-color: var(--cor3);
     color: var(--cor5);
@@ -100,7 +101,7 @@ footer {
 
 footer p {
     padding: 10px;
-    width: 1000px;
+    width: 100%;
     margin: auto;
 }
 
