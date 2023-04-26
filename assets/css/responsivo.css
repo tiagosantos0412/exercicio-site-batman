@@ -57,6 +57,9 @@
 }
 
 @media (max-width: 576px) and (max-width: 600px) {
+    .painel {
+        max-width: 100%;
+    }
     li > a {
         display: none;
     }
