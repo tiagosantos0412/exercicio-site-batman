@@ -69,10 +69,11 @@
     .menu-img {
         display: block;
         margin-left: 100px;
+        margin-bottom: 10px;
         width: 50px;
     }
     h1 {
-        font-size: 1em;
+        font-size: 0.8em;
     }
     .info > p {
         font-size: 13px;
